@@ -1,7 +1,7 @@
 # Exercise-30.3
 
 ## Example Output
-![Sample Output](ReadMe.png)
+![Sample Output](ReadMe.PNG)
 
 ## Analysis Steps
 
